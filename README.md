@@ -1,6 +1,9 @@
 # translate
+.. code-block:: sh
 
-pip install googletrans
+    pip install googletrans
+
+.. code-block:: sh
 
 kütüphanesini yükledikten sonra.
 
